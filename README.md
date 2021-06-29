@@ -1,3 +1,3 @@
 # DataAnalysis_study
 
-캐글 데이터를 이용해 데이터 분석을 진행한 결과입니다.
+This is the result of analyzing the data using the kaggle data.
