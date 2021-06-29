@@ -11,4 +11,8 @@ This is the result of analyzing the data using the kaggle data.
 - Jupyter notebook
 
 ## Work List
-- Stroke_Prediction
+- [Stroke_Prediction](https://github.com/YoonHyeJu/DataAnalysis_study/blob/main/Stroke_Prediction.ipynb)
+- [Students_Performaance](https://github.com/YoonHyeJu/DataAnalysis_study/blob/main/StudentsPerformace.ipynb)
+- [Company_Bankruptcy_Prediction](https://github.com/YoonHyeJu/DataAnalysis_study/blob/main/Company_Bankruptcy_Prediction.ipynb)
+- [Titanic_Data_Analyzing](https://github.com/YoonHyeJu/DataAnalysis_study/blob/main/Titanic_data_analyzing.ipynb)
+- Will continue to add...
